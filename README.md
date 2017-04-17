@@ -18,6 +18,16 @@
 
 <div markdown="0"><a href="https://lahuman.github.io/assets/project/scr/SCR_64.zip" class="btn btn-success">SCR 64bit</a></div>
       
+### Linux 64bit 전용 실행 파일
+
+<div markdown="0"><a href="https://lahuman.github.io/assets/project/scr/SCR_linux_64.jar" class="btn btn-success">J-Distribute Linux 64bit</a></div>
+
+#### Linux 실행 방법
+
+``` bash
+java -jar SCR_linux_64.jar
+```
+
 ### 다른 OS의 경우 Source를 다운받아 실행 하셔야 합니다.
 
 ## Notice
