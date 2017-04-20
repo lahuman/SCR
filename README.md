@@ -20,12 +20,22 @@
       
 ### Linux 64bit 전용 실행 파일
 
-<div markdown="0"><a href="https://lahuman.github.io/assets/project/scr/SCR_linux_64.jar" class="btn btn-success">J-Distribute Linux 64bit</a></div>
+<div markdown="0"><a href="https://lahuman.github.io/assets/project/scr/SCR_linux_64.jar" class="btn btn-success">SCR Linux 64bit</a></div>
 
 #### Linux 실행 방법
 
 ``` bash
 java -jar SCR_linux_64.jar
+```
+
+
+<div markdown="0"><a href="https://lahuman.github.io/assets/project/scr/SCR_CMD_linux_64.jar" class="btn btn-success">SCR COMMAND Linux 64bit</a></div>
+
+##### COMMAND Line 실행 방법
+
+``` bash
+# 첫번째는 서버 정보, 두번째는 출력 파일 정보 기입 
+java -jar SCR_linux_64.jar /data/SERVER_INFO.XML /data/output.txt
 ```
 
 ### 다른 OS의 경우 Source를 다운받아 실행 하셔야 합니다.
